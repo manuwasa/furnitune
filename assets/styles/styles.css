@@ -1,0 +1,357 @@
+@media only screen and (max-width: 600px) {
+  header {
+    height: 80vh !important;
+  }
+  header .btn-send {
+    margin-top: -16px;
+  }
+}
+
+.navbar {
+  background-color: white !important;
+  padding-bottom: 15px;
+  padding-top: 12px;
+}
+
+.navbar .navbar-brand {
+  font-family: "Quicksand", sans-serif;
+  font-weight: 800;
+  font-size: 18px;
+  color: #2978b5;
+}
+
+.navbar .navbar-brand span {
+  color: #8ab6d6;
+}
+
+.navbar .navbar-brand:hover {
+  color: #2978b5;
+}
+
+.navbar .navbar-nav .nav-link {
+  font-family: "Assistant", sans-serif;
+  font-weight: 600;
+  font-size: 18px;
+  text-align: left;
+  color: #6d6d6d !important;
+  margin-right: 22px;
+}
+
+.navbar .navbar-nav .nav-link:hover {
+  color: #8ab6d6 !important;
+}
+
+.navbar .navbar-nav .btn-contact {
+  margin-top: 5px;
+  width: 110px;
+  height: 35px;
+  border-radius: 5px;
+  background: #fff;
+  border: 2px solid #8ab6d6;
+  font-weight: 600;
+  font-size: 15px;
+  color: #8ab6d6 !important;
+  padding-bottom: 30px;
+}
+
+.navbar .navbar-nav .btn-contact:hover {
+  background-color: #8ab6d6;
+  color: white !important;
+}
+
+header {
+  background: url("../images/bg@2x.png");
+  background-size: cover;
+  height: 90vh;
+}
+
+header h1 {
+  margin-top: 120px;
+  font-family: "Quicksand", sans-serif;
+  font-weight: bold;
+  font-size: 50px;
+  letter-spacing: 0.1em;
+  color: #2978b5;
+}
+
+header p {
+  font-family: "Assistant", sans-serif;
+  font-weight: 300;
+  font-size: 20px;
+  color: #2978b5;
+}
+
+header form input {
+  height: 50px !important;
+  border-radius: 5px;
+  background: #fff;
+  border: 1px solid #8ab6d6;
+}
+
+header form .btn-send {
+  width: 114px;
+  height: 50px;
+  border-radius: 0px 5px 5px 0px;
+  background: #ffbe7b;
+  font-family: "Assistant", sans-serif;
+  font-weight: 600;
+  font-size: 20px;
+  color: #fff;
+}
+
+header form .btn-send:hover {
+  background-color: #ffc991;
+  color: white;
+}
+
+header .btn-started {
+  width: 163px;
+  height: 50px;
+  border-radius: 20px;
+  background: #2978b5;
+  font-family: "Assistant", sans-serif;
+  font-weight: 600;
+  font-size: 22px;
+  color: #fff;
+}
+
+header .btn-started:hover {
+  background-color: #4c91c6;
+  color: white;
+}
+
+.section-about {
+  margin-top: 100px;
+}
+
+.section-about h3 {
+  margin-top: 25px;
+  font-family: "Quicksand", sans-serif;
+  font-weight: 600;
+  font-size: 30px;
+  color: #2978b5;
+}
+
+.section-about hr {
+  border: 2px solid #8ab6d6;
+  border-radius: 5px;
+  background-color: #8ab6d6;
+}
+
+.section-about p {
+  font-family: "Assistant", sans-serif;
+  font-weight: normal;
+  font-size: 16px;
+  text-align: left;
+  color: #8ab6d6;
+}
+
+.section-about .btn-continue {
+  width: 163px;
+  height: 50px;
+  border-radius: 20px;
+  background: transparent;
+  border: 1px solid #2978b5;
+  font-family: "Assistant", sans-serif;
+  font-weight: 600;
+  font-size: 22px;
+  color: #2978b5;
+}
+
+.section-about .btn-continue:hover {
+  background: #2978b5;
+  color: white;
+}
+
+.section-services {
+  margin-top: 100px;
+}
+
+.section-services h3 {
+  font-family: "Quicksand", sans-serif;
+  font-weight: 600;
+  font-size: 40px;
+  color: #2978b5;
+  margin-top: -20px;
+}
+
+.section-services p {
+  margin-top: 20px;
+  font-family: "Assistant", sans-serif;
+  font-weight: normal;
+  font-size: 24px;
+  color: #2978b5;
+}
+
+.section-latest {
+  margin-top: 100px;
+}
+
+.section-latest h3 {
+  font-family: "Quicksand", sans-serif;
+  font-weight: 600;
+  font-size: 40px;
+  color: #2978b5;
+  margin-top: -20px;
+}
+
+.section-latest p {
+  margin-top: 20px;
+  font-family: "Assistant", sans-serif;
+  font-weight: normal;
+  font-size: 24px;
+  color: #2978b5;
+}
+
+.section-latest hr {
+  width: 239px;
+  border: 2px solid #8ab6d6;
+  border-radius: 5px;
+  background-color: #8ab6d6;
+}
+
+.section-latest .card {
+  margin-top: 60px;
+}
+
+.section-latest .card .card-body {
+  padding-bottom: 60px;
+}
+
+.section-latest .card .card-body h5 {
+  margin-top: 20px;
+  font-family: "Assistant", sans-serif;
+  font-weight: 600;
+  font-size: 24px;
+  color: #2978b5;
+}
+
+.section-latest .card .card-body p {
+  font-family: "Assistant", sans-serif;
+  font-weight: 300 !important;
+  font-size: 18px;
+  color: #8ab6d6;
+}
+
+.section-latest .card .card-body a {
+  font-family: "Assistant", sans-serif;
+  font-weight: bold;
+  text-decoration: underline;
+  font-size: 22px;
+  text-align: left;
+  color: #2978b5;
+}
+
+.section-latest .card:hover {
+  background-color: #f7f8fd;
+}
+
+.section-sign {
+  margin-top: 100px;
+  background-color: #2978b5;
+  padding-top: 60px;
+  padding-bottom: 50px;
+}
+
+.section-sign h3 {
+  font-family: "Quicksand", sans-serif;
+  font-weight: 600;
+  font-size: 40px;
+  color: #fbe0c4;
+  margin-top: -20px;
+}
+
+.section-sign .signP {
+  margin-top: 80px;
+  font-family: "Assistant", sans-serif;
+  font-weight: normal;
+  font-size: 24px;
+  color: #fbe0c4;
+}
+
+.section-sign form {
+  margin-top: 20px;
+}
+
+.section-sign form input {
+  height: 50px;
+  border-radius: 5px;
+  background: #fff;
+  border: 1px solid #fbe0c4;
+}
+
+.section-sign form p {
+  font-family: "Assistant", sans-serif;
+  font-weight: 600;
+  font-size: 18px;
+  letter-spacing: 0.1em;
+  color: #fbe0c4;
+}
+
+.section-sign form .btn-sign {
+  width: 149px;
+  height: 47px;
+  border-radius: 10px;
+  background: #2978b5;
+  border: 3px solid #fbe0c4;
+  font-family: "Assistant", sans-serif;
+  font-weight: 600;
+  font-size: 15px;
+  letter-spacing: 0.1em;
+  color: #fbe0c4;
+}
+
+.section-sign form .btn-sign:hover {
+  background-color: #fbe0c4;
+  color: #2978b5;
+}
+
+footer {
+  margin-top: 100px;
+  background-color: #fbe0c4;
+  padding-top: 35px;
+}
+
+footer .foot-image h5 {
+  font-family: "Quicksand", sans-serif;
+  font-weight: 800;
+  font-size: 18px;
+  color: #2978b5;
+}
+
+footer .foot-image h5 span {
+  color: #8ab6d6;
+}
+
+footer .foot-image p {
+  font-family: "Assistant", sans-serif;
+  font-weight: normal;
+  font-size: 16px;
+  letter-spacing: 0.05em;
+  color: #2978b5;
+}
+
+footer h5 {
+  margin-top: 15px;
+  font-family: "Assistant", sans-serif;
+  font-weight: 600;
+  font-size: 20px;
+  color: #2978b5;
+}
+
+footer p {
+  margin-top: 18px;
+  font-family: "Assistant", sans-serif;
+  font-weight: 300;
+  font-size: 12px;
+  color: #2978b5;
+}
+
+footer .sosmed-logo a {
+  text-decoration: none !important;
+}
+
+footer .sosmed-logo a:hover {
+  text-decoration: none !important;
+}
+/*# sourceMappingURL=styles.css.map */
